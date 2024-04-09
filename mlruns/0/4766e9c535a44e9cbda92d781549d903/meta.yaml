@@ -1,0 +1,15 @@
+artifact_uri: /home/sravya/mlflow-training/mlruns/0/4766e9c535a44e9cbda92d781549d903/artifacts
+end_time: 1712648309713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4766e9c535a44e9cbda92d781549d903
+run_uuid: 4766e9c535a44e9cbda92d781549d903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712648299200
+status: 3
+tags: []
+user_id: sravya

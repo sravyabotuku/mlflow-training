@@ -1,0 +1,15 @@
+artifact_uri: /home/sravya/mlflow-training/mlruns/0/47688b807cb34a88aed74dfe343466ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47688b807cb34a88aed74dfe343466ef
+run_name: inquisitive-koi-416
+run_uuid: 47688b807cb34a88aed74dfe343466ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560366041
+status: 1
+tags: []
+user_id: sravya
